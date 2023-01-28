@@ -1,0 +1,14 @@
+/**
+button {
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    padding-left: 100%;
+    background: none;
+    border-radius: 50px;
+    cursor: pointer;
+    padding: 100px;
+    color:black
+   
+
+}
